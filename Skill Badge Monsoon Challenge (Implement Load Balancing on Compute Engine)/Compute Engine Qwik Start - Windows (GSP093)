@@ -2,6 +2,7 @@ First You Have To ## Activate Cloud Shell ##
 
 
 //You can find your zone from **Create a virtual machine instance**
+//Just Copy and Paste The Whole Code
 
 export ZONE=
 
