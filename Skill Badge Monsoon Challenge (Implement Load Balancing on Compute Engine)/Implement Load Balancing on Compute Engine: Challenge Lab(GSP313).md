@@ -5,13 +5,15 @@
 ### Run the following Commands in CloudShell
 
 ###From "Challenge scenario" you can find your Zone,
-##Just Run the whole code
 
 ```
 export INSTANCE=
 export FIREWALL=
 export ZONE=
 ```
+
+##Just Run the whole code
+
 ```
 #!/bin/bash
 # Define color variables
