@@ -103,9 +103,9 @@ gcloud compute forwarding-rules create http-content-rule \
  
 gcloud compute forwarding-rules list
 
-echo "${RED}${BOLD}Task 2. ${RESET}""${WHITE}${BOLD}Set up an HTTP load balancer${RESET}" "${GREEN}${BOLD}Completed${RESET}"
+echo "${RED}${BOLD}Task 2.${RESET}""${WHITE}${BOLD}Set up an HTTP load balancer${RESET}" "${GREEN}${BOLD}Completed${RESET}"
 
-echo "${YELLOW}${BOLD}Note:${RESET}""${CYAN}${BOLD}You may need to wait for ${RESET}""${RED}${BOLD}5 to 7 minutes${RESET}""${CYAN}${BOLD} to get the score for this task.${RESET}"
+echo "${YELLOW}${BOLD}Note:${RESET}""${CYAN}${BOLD}You may need to wait for${RESET}""${RED}${BOLD}5 to 7 minutes${RESET}""${CYAN}${BOLD} to get the score for this task.${RESET}"
 
 echo "${BG_RED}${BOLD}Congratulations For Completing The Lab !!!${RESET}"
 
