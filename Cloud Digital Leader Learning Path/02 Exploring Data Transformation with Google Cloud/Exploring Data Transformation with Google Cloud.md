@@ -229,4 +229,81 @@
 * Spanner
 
 
+## Quiz 3 Answers:- `(Shuffle)`
+
+## * Making Data Useful and Accessible
+
+
+### 1. What is Google Cloud’s distributed messaging service that can receive messages from various device streams such as gaming events, Internet of Things (IoT) devices, and application streams?
+
+* Looker
+
+* Dataproc
+
+* Dataplex
+
+* `Pub/Sub`
+
   
+### 2. What does ETL stand for in the context of data processing?
+
+* Enhanced transaction logic
+
+* `Extract, transform, and load`
+
+* Enrichment, tagging, and labeling
+
+* Event-time logic
+
+  
+### 3. What Google Cloud business intelligence platform is designed to help individuals and teams analyze, visualize, and share data?
+
+* `Looker`
+
+* Dataplex
+
+* Cloud Storage
+
+* Dataflow
+
+
+### 4. What feature of Looker makes it easy to integrate into existing workflows and share with multiple teams at an organization?
+
+* It’s cost effective.
+
+* It creates easy to understand visualizations.
+
+* It supports over 60 different SQL databases.
+
+* `It’s 100% web based.`
+
+  
+### 5. Streaming analytics is the processing and analyzing of data records continuously instead of in batches. Which option is a source of streaming data?
+
+* `Temperature sensors`
+
+* Medical test results
+
+* Customer email addresses
+
+* Payroll records
+
+  
+### 6. Which statement is true about Dataflow?
+
+* It allows easy data cleaning and transformation through visual tools and machine learning-based suggestions.
+
+* `It handles infrastructure setup and maintenance for processing pipelines.`
+
+* It’s a cloud-based data warehouse for storing and analyzing streaming and batch data.
+
+* It’s a messaging service for receiving messages from various device streams.
+
+  
+# Congratulations 🎉 for completing the Quiz!
+
+##### *You Have Successfully Demonstrated Your Skills And Determination.*
+
+#### *Well done!*
+
+#### Don't Forget to Join the [WhatsApp Group](https://chat.whatsapp.com/CcX9gXycV1lKmOjnZQCk7g) 
