@@ -106,7 +106,7 @@
 * Scaling processing is too difficult due to power consumption.
 
 
-## * Why Cloud Technology is Transforming Business
+## * Fundamental Cloud Concepts
 
 
   
