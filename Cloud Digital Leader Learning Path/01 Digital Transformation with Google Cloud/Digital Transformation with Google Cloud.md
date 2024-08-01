@@ -1,6 +1,6 @@
 # [01 Digital Transformation with Google Cloud](https://www.cloudskillsboost.google/paths/9/course_templates/266) ||
 
-## Quiz Answers:- `(Shuffle)`
+## Quiz 1 Answers:- `(Shuffle)`
 
 ## * Why Cloud Technology is Transforming Business
 
@@ -106,6 +106,8 @@
 * Scaling processing is too difficult due to power consumption.
 
 
+## Quiz 2 Answers:- `(Shuffle)`
+
 ## * Fundamental Cloud Concepts
 
 
@@ -162,6 +164,57 @@
 * `Hybrid Cloud`
 
 * On-premises infrastructure
+
+
+  ## Quiz 3 Answers:- `(Shuffle)`
+
+
+  ## * Cloud Computing Models and Shared Responsibility
+  
+
+### 1. Which cloud computing service model offers a develop-and-deploy environment to build cloud applications?
+
+* Software as a Service (SaaS)
+
+* `Platform as a Service (PaaS)`
+
+* Function as a Service (FaaS)
+
+* Infrastructure as a Service (IaaS)
+
+  
+### 2. In the cloud computing shared responsibility model, what types of content are customers always responsible for, regardless of the computing model chosen?
+
+* The customer is responsible for security of the operating system, software stack required to run their applications and any hardware, networks, and physical security.
+
+* `The customer is responsible for securing anything that they create within the cloud, such as the configurations, access policies, and user data.`
+
+* The customer is not responsible for any of the data in the cloud, as data management is the responsibility of the cloud provider who is hosting the data.
+
+* The customer is responsible for all infrastructure decisions, server configurations and database monitoring.
+
+  
+### 3. Which option best describes a benefit of Infrastructure as a Service (IaaS)?
+
+* It has low management overhead, as all administration and management tasks for data, servers, storage, and updates are handled by the cloud vendor.
+
+* `It’s efficient, as IaaS resources are available when needed and resources aren’t wasted by overbuilding capacity.`
+
+* It reduces development time, as developers can go straight to coding instead of spending time setting up and maintaining a development environment.
+
+* It's cost-effective, as all infrastructure costs are handled under a single monthly or annual subscription fee.
+
+  
+### 4.An organization wants to move their collaboration software to the cloud, but due to limited IT staff one of their main drivers is having low maintenance needs. Which cloud computing model would best suit their requirements?
+
+* `Software as a Service (SaaS)`
+
+* Platform as a Service (PaaS)
+
+* IT as a service (ITaaS)
+
+* Infrastructure as a Service (IaaS)
+
 
   
 # Congratulations 🎉 for completing the Quiz!
