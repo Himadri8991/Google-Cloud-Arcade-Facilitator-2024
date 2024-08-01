@@ -207,7 +207,7 @@
 * Bigtable
 
 
-9. BigQuery works in a multicloud environment. How do organizations benefit from this feature?
+### 9. BigQuery works in a multicloud environment. How do organizations benefit from this feature?
 
 * Multicloud support in BigQuery is only intended for use in disaster recovery scenarios.
 
@@ -218,7 +218,7 @@
 * BigQuery lets organizations save costs by limiting the number of cloud providers they use.
 
 
-10. What is Google's big data database service that powers many core Google services, including Google Search, Google Analytics, Google Maps Platform, and Gmail?
+### 10. What is Google's big data database service that powers many core Google services, including Google Search, Google Analytics, Google Maps Platform, and Gmail?
 
 * Cloud SQL
 
