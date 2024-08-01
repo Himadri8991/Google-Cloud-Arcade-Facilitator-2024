@@ -117,7 +117,7 @@
 
 ## Quiz 2 Answers:- `(Shuffle)`
 
-## * AI and ML Fundamentals
+## * Google Cloud’s AI and ML Solutions
 
 ### 1. Which feature of Vertex AI lets users build and train end-to-end machine learning models by using a GUI (graphical user interface), without writing a line of code.
 
@@ -205,3 +205,13 @@ vVideo Intelligence API
 * AutoML
 
 * `Custom training`
+
+
+
+# Congratulations 🎉 for completing the Course!
+
+##### *You Have Successfully Demonstrated Your Skills And Determination.*
+
+#### *Well done!*
+
+#### Don't Forget to Join the [WhatsApp Group](https://chat.whatsapp.com/CcX9gXycV1lKmOjnZQCk7g) 
