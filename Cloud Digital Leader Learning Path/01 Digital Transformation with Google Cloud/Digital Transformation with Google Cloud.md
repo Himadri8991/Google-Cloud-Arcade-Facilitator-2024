@@ -109,6 +109,60 @@
 ## * Fundamental Cloud Concepts
 
 
+### 1. A financial services organization has bank branches in a number of countries, and has built an application that needs to run in different configurations based on the local regulations of each country. How can cloud infrastructure help achieve this goal?
+
+* Scalability of infrastructure to needs.
+
+* Reliability of the infrastructure availability.
+
+* `Flexibility of infrastructure configuration.`
+
+* Total cost of ownership of the infrastructure.
+
+
+### 2. Which network performance metric describes the amount of data a network can transfer in a given amount of time?
+
+* Latency
+
+* Fiber optics
+
+* `Bandwidth`
+
+* Domain Name System (DNS)
+
+
+### 3. An organization wants to ensure they have redundancy of their resources so their application remains available in the event of a disaster. How can they ensure this happens?
+
+* `By putting resources in different zones.`
+
+* Using the edge network to cache the whole application image in a backup.
+
+* By assigning a different IP address to each resource.
+
+* By putting resources in the Domain Name System (DNS).
+
+
+### 4. An organization has shifted from a CapEx to OpEx based spending model. Which of these statements is true?
+
+* `They will only pay for what they use.`
+
+* Budgeting will only happen on an annual basis.
+
+* Hardware procurement is done by a centralized team.
+
+* They will only pay for what they forecast.
+
+
+### 5. An organization wants to innovate using the latest technologies, but also has compliance needs that specify data must be stored in specific locations. Which cloud approach would best suit their needs?
+
+* Public Cloud
+
+* Multicloud
+
+* `Hybrid Cloud`
+
+* On-premises infrastructure
+
   
 # Congratulations 🎉 for completing the Quiz!
 
