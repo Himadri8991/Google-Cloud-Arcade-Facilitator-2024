@@ -208,6 +208,66 @@
 * Cloud Load Balancing
 
 
+## Quiz 3 Answers:- `(Shuffle)`
+
+## * Google Cloud’s Trust Principles and Compliance
+
+
+### 1. Which Google Cloud feature allows users to control their data's physical location?
+
+* Places
+
+* `Regions`
+
+* Areas
+
+* Districts
+
+
+### 2. Which is one of Google Cloud’s seven trust principles?
+
+* Google Cloud uses customer data for advertising.
+
+* We give "backdoor" access to government entities when requested.
+
+* `All customer data is encrypted by default.`
+
+* Google sells customer data to third parties.
+
+
+### 3. Where can you find details about certifications and compliance standards met by Google Cloud?
+
+* `Compliance resource center`
+
+* Google Cloud console
+
+* Cloud Storage client libraries
+
+* Marketplace
+
+
+### 4. Which report provides a way for Google Cloud to share data about how the policies and actions of governments and corporations affect privacy, security, and access to information?
+
+* Security reports
+
+* `Transparency reports`
+
+* Compliance reports
+
+* Billing reports
+
+
+### 5. Which term describes the concept that data is subject to the laws and regulations of the country where it resides?
+
+* `Data sovereignty`
+
+* Data redundancy
+
+* Data consistency
+
+* Data residency
+
+
 # Congratulations 🎉 for completing the Course!
 
 ##### *You Have Successfully Demonstrated Your Skills And Determination.*
