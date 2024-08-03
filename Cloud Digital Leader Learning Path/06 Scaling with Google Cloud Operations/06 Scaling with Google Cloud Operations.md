@@ -186,6 +186,44 @@
 * Cloud architect
 
 
+## Quiz 3 Answers:- `(Shuffle)`
+
+## * Sustainability with Google Cloud
+
+
+### 1. Google's data centers were the first to achieve ISO 14001 certification. What is this standard’s purpose?
+
+* It’s a framework for sustainable procurement, which is the process of purchasing goods and services in a way that minimizes environmental and social impacts.
+
+* `It’s a framework for an organization to enhance its environmental performance through improving resource efficiency and reducing waste.`
+
+* It’s a framework for identifying, predicting, and evaluating the environmental impacts of a proposed project.
+
+* It’s a framework for carbon footprinting that calculates the total amount of greenhouse gas emissions associated with a product, service, or organization.
+
+
+### 2. Kaluza is an electric vehicle smart-charging solution. How does it use BigQuery and Looker Studio?
+
+* It uses BigQuery and Looker Studio to containerize workloads.
+
+* `It uses BigQuery and Looker Studio to create dashboards that provide granular operational insights.`
+
+* It uses BigQuery and Looker Studio to build and deploy machine learning models.
+
+* It uses BigQuery and Looker Studio to comply with government regulations.
+
+
+### 3. What sustainability goal does Google aim to achieve by the year 2030?
+
+* `To be the first major company to operate completely carbon free.`
+
+* To be the first major company to be carbon neutral.
+
+* To be the first major company to achieve 100% renewable energy.
+
+* To be the first major company to run its own wind farm.
+
+
 # Congratulations 🎉 for completing the Course!
 
 ##### *You Have Successfully Demonstrated Your Skills And Determination.*
