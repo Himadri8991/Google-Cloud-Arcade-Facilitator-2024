@@ -82,8 +82,108 @@
 * Cost optimization recommendations
 
 
+## Quiz 2 Answers:- `(Shuffle)`
+
+## * Operational Excellence and Reliability at Scale
 
 
+### 1. Google Cloud Observability provides a comprehensive set of monitoring, logging, and diagnostics tools. Which tool collects latency data from applications and provides insights into how they’re performing?
+
+* Cloud Profiler
+
+* Cloud Logging
+
+* Cloud Monitoring
+
+* `Cloud Trace`
+
+
+### 2. One of the four golden signals is latency. What does latency measure?
+
+* How many requests reach a system.
+
+* System failures or other issues.
+
+* How close to capacity a system is.
+
+* `How long it takes for a particular part of a system to return a result.`
+
+
+### 3. What does the Cloud Profiler tool do?
+
+* `It identifies how much CPU power, memory, and other resources an application uses.`
+
+* It counts, analyzes, and aggregates the crashes in running cloud services in real-time.
+
+* It provides a comprehensive view of your cloud infrastructure and applications.
+
+* It collects and stores all application and infrastructure logs.
+
+
+### 4. Which of these measures should be automated on a regular basis and stored in geographically separate locations to allow for rapid recovery from disasters or failures?
+
+* Log files
+
+* `Backups`
+
+* Inventory data
+
+* Security patches
+
+
+### 5. Which metric shows how well a system or service is performing?
+
+* `Service level indicators`
+
+* Service level contracts
+
+* Service level agreements
+
+* Service level objectives
+
+
+### 6. Why is escalating a support ticket not always the best course of action when trying to resolve an issue?
+
+* It may reduce the number of available virtual machines.
+
+* `It may disrupt the workflow of the Customer Care team and lead to delays in other cases.`
+
+* It can result in increased power consumption, impacting carbon neutrality.
+
+* It can increase the monthly cost of support plans.
+
+
+### 7. How does replication help the design of resilient and fault-tolerant infrastructure and processes in a cloud environment?
+
+* It monitors and controls incoming and outgoing network traffic based on predetermined security rules.
+
+* `It creates multiple copies of data or services and distributes them across different servers or locations.`
+
+* It duplicates critical components or resources to provide backup alternatives.
+
+* It scales infrastructure to handle varying workloads and accommodate increased demand.
+
+
+### 8. Which Google Cloud Customer Care support level is designed for enterprises with critical workloads and features the fastest response time?
+
+* Basic Support
+
+* `Premium Support`
+
+* Enhanced Support
+
+* Standard Support
+
+
+### 9. Whose job is to ensure the reliability, availability, and efficiency of software systems and services deployed in the cloud?
+
+* Cloud security engineer
+
+* DevOps engineer
+
+* `Site reliability engineer`
+
+* Cloud architect
 
 
 # Congratulations 🎉 for completing the Course!
